@@ -53,7 +53,7 @@ Ensure you have ROS 2 Humble and Ignition Gazebo installed on your system.
 The robot autonomously navigates through a predefined sequence of topological waypoints (A → B → C → Home) using the Nav2 stack, actively avoiding obstacles using its onboard LiDAR and ultrasonic sensors.
 
 
-*(Replace `images/task_a.png` with your screenshot or GIF)*
+![Alt text](images/task_a.png)
 
 **Execution:**
 
@@ -78,7 +78,7 @@ The robot autonomously navigates through a predefined sequence of topological wa
 The robot dynamically plans paths through branching geometric environments, exploring side corridors and successfully returning to the main path.
 
 
-*(Replace `images/task_b.png` with your screenshot or GIF)*
+![Alt text](images/task_b.png)
 
 **Execution:**
 Follow the same launch sequence as Task A, but use the **2D Goal Pose** tool to direct the robot into the side branches of the mapped corridor.
@@ -88,7 +88,7 @@ Follow the same launch sequence as Task A, but use the **2D Goal Pose** tool to 
 A custom Python finite state machine (FSM) utilizing time-based rotational calculations to perform a symmetric 170-degree Boustrophedon sweep of the corridor.
 
 
-*(Replace `images/task_c.png` with your screenshot or GIF)*
+![Alt text](images/task_c.gif)
 
 **Execution:**
 
