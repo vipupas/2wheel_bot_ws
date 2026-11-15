@@ -1,0 +1,22 @@
+[0.594s] Invoking command in '/home/vip/hrl_ws/src/bot_navigation': PYTHONPATH=/home/vip/hrl_ws/build/bot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vip/hrl_ws/install/bot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bot_navigation build --build-base /home/vip/hrl_ws/build/bot_navigation/build install --record /home/vip/hrl_ws/build/bot_navigation/install.log --install-scripts $base/lib/bot_navigation --single-version-externally-managed install_data
+[0.831s] running egg_info
+[0.849s] writing ../../build/bot_navigation/bot_navigation.egg-info/PKG-INFO
+[0.849s] writing dependency_links to ../../build/bot_navigation/bot_navigation.egg-info/dependency_links.txt
+[0.850s] writing requirements to ../../build/bot_navigation/bot_navigation.egg-info/requires.txt
+[0.850s] writing top-level names to ../../build/bot_navigation/bot_navigation.egg-info/top_level.txt
+[0.886s] reading manifest file '../../build/bot_navigation/bot_navigation.egg-info/SOURCES.txt'
+[0.887s] writing manifest file '../../build/bot_navigation/bot_navigation.egg-info/SOURCES.txt'
+[0.888s] running build
+[0.888s] running build_py
+[0.888s] copying bot_navigation/__init__.py -> /home/vip/hrl_ws/build/bot_navigation/build/lib/bot_navigation
+[0.888s] running install
+[0.891s] running install_lib
+[0.910s] running install_data
+[0.910s] copying resource/bot_navigation -> /home/vip/hrl_ws/install/bot_navigation/share/ament_index/resource_index/packages
+[0.910s] copying package.xml -> /home/vip/hrl_ws/install/bot_navigation/share/bot_navigation
+[0.910s] running install_egg_info
+[0.929s] removing '/home/vip/hrl_ws/install/bot_navigation/lib/python3.10/site-packages/bot_navigation-0.0.0-py3.10.egg-info' (and everything under it)
+[0.929s] Copying ../../build/bot_navigation/bot_navigation.egg-info to /home/vip/hrl_ws/install/bot_navigation/lib/python3.10/site-packages/bot_navigation-0.0.0-py3.10.egg-info
+[0.930s] running install_scripts
+[0.965s] writing list of installed files to '/home/vip/hrl_ws/build/bot_navigation/install.log'
+[0.984s] Invoked command in '/home/vip/hrl_ws/src/bot_navigation' returned '0': PYTHONPATH=/home/vip/hrl_ws/build/bot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vip/hrl_ws/install/bot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bot_navigation build --build-base /home/vip/hrl_ws/build/bot_navigation/build install --record /home/vip/hrl_ws/build/bot_navigation/install.log --install-scripts $base/lib/bot_navigation --single-version-externally-managed install_data

@@ -1,0 +1,25 @@
+-- Install configuration: ""
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/launch
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/launch/sim_bringup.launch.py
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/urdf
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/urdf/bot.urdf.xacro
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/worlds
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/worlds/corridor.sdf
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/bot_simulation
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/bot_simulation/coverage_cleaner.py
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/lib/bot_simulation/coverage_cleaner.py
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/ament_index/resource_index/package_run_dependencies/bot_simulation
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/ament_index/resource_index/parent_prefix_path/bot_simulation
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/environment/ament_prefix_path.sh
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/environment/path.sh
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/environment/path.dsv
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/local_setup.bash
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/local_setup.sh
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/local_setup.zsh
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/local_setup.dsv
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/package.dsv
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/ament_index/resource_index/packages/bot_simulation
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/cmake/bot_simulationConfig.cmake
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/cmake/bot_simulationConfig-version.cmake
+-- Up-to-date: /home/vip/hrl_ws/install/bot_simulation/share/bot_simulation/package.xml
