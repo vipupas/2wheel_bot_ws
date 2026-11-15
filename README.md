@@ -122,3 +122,11 @@ This workspace implements specific architectural fixes to ensure stable simulati
 * `/bot_simulation`: Contains the robot URDF (Xacro), custom Gazebo worlds (`corridor.sdf`), launch files, and the Task C Python FSM.
 
 * `/bot_navigation`: Contains the generated maps (PGM/YAML) and Nav2 configurations.
+
+## Further optimisation 
+
+* Adding curve instead of zig-zag pattern . { not able to update now due to limited time}
+![Alt text](images/curve-turn-algo.png)
+
+
+
