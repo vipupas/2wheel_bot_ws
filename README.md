@@ -89,6 +89,7 @@ A custom Python finite state machine (FSM) utilizing time-based rotational calcu
 
 
 ![Alt text](images/task_c.gif)
+![Alt text](images/zig-zag-algo.png)
 
 **Execution:**
 
